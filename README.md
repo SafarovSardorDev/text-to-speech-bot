@@ -34,7 +34,7 @@ Bu bot foydalanuvchilarga yuborilgan matnni ovozga aylantirib, audio shaklida qa
 ## 📡 Texnologiyalar
 
 - Python 3.11
-- Aiogram 2.x
+- Aiogram 2
 - SQLite3
 - AIOHTTP (API so‘rovlari uchun)
 - Play.ht API (matnni ovozga aylantirish uchun)
